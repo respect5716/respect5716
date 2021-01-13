@@ -2,8 +2,7 @@
 
 
 ### Towards full stack data scientist
-끊임없이 배우는 데이터 사이언티스트
-
+배우고 생각하고 개발하는 것을 좋아합니다.
 
 ### Profile
 - 성균관대학교 소비자학과/심리학과 4학년 재학 중
