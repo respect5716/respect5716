@@ -2,7 +2,7 @@
 
 
 ### Towards full stack data scientist
-배우고 생각하고 개발하기 좋아합니다.
+배우고 생각하고 개발 좋아합니다.
 
 
 ### Profile
