@@ -6,7 +6,8 @@
 
 
 ### Profile
-- 성균관대학교 소비자학과/심리학과 4학년 재학 중
+- SK C&C 근무 
+- 성균관대학교 소비자학과/심리학과 졸업
 - Github : [https://github.com/respect5716](https://github.com/respect5716)
 - Email : [respect5716@gmail.com](mailto:respect5716@gmail.com)
 
