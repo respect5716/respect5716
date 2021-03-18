@@ -71,6 +71,7 @@
 - 2019년 7월 ~ 2019년 12월
 - 지도교수: [김재광](https://sites.google.com/view/skku-milab/members/faculty?authuser=0)
 - 한국지능시스템학회 2020년 춘계학술대회 발표
+- 한국지능시스템학회 논문지 등재, [link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002690286)
 </details>
 
 
