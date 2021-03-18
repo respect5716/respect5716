@@ -26,56 +26,62 @@
 <details>
 <summary>KBO 타자 OPS 예측 모델링</summary>
 
-* 2019년 2월 ~ 2019년 3월
-* [DACON <KBO 타자 OPS 예측 모델링> 3위](https://dacon.io/competitions/official/62540/overview/)
-* Ridge Regression
-
+- Ridge Regression
+- 2019년 2월 ~ 2019년 3월
+- with [안성진](https://github.com/SDSTony), [오한석](https://github.com/hanseokOh)
+- [DACON <KBO 타자 OPS 예측 모델링> 3위](https://dacon.io/competitions/official/62540/overview/)
 </details>
+
 
 <details>
 <summary>고속도로 CCTV를 활용한 이상주행 탐지</summary>
-  
-- 2019년 3월 ~ 2019년 7월
-- 교내 대회 대상
-- Convolutional LSTM Auto Encoder
 
+- Convolutional LSTM Auto Encoder
+- 2019년 3월 ~ 2019년 7월
+- with [오한석](https://github.com/hanseokOh), 왕종욱, 채호정, 허유정
+- 교내 대회 대상
 </details>
+
 
 <details>
 <summary>AI x Bookathon 대회</summary>
-  
-- 2019년 11월
-- 교내 대회 장려상 수상
-- GPT-2
 
+-  에세이 작성 AI 모델 개발
+  - GPT-2
+- 2019년 11월
+- with [안성진](https://github.com/SDSTony), [오한석](https://github.com/hanseokOh)
+- 교내 대회 장려상
 </details>
+
 
 <details>
 <summary>심전도 데이터를 활용한 부정맥 예측 연구</summary>
-  
+ 
+- 2D array 변환을 통한 효율적인 부정맥 예측 알고리즘 개발
 - 2019년 7월 ~ 2019년 12월
-- 한국지능시스템학회 2020년 춘계학술대회
-- 우수 논문상 수상
-- Convolutional Neural Network
-
+- 지도교수: [김재광](https://sites.google.com/view/skku-milab/members/faculty?authuser=0)
+- 한국지능시스템학회 2020년 춘계학술대회 우수 논문상
 </details>
+
 
 <details>
 <summary>컨텍스트와 명시적 피드백을 활용한 트랜스포머 기반 추천 알고리즘</summary>
-  
+ 
+- Context 정보와 Explicit feedback 정보를 각각 Context Embedding, Multi-task learning을 통해 활용하는 모델 개발
 - 2019년 7월 ~ 2019년 12월
-- 한국지능시스템학회 2020년 춘계학술대회
-- Transformer
-
+- 지도교수: [김재광](https://sites.google.com/view/skku-milab/members/faculty?authuser=0)
+- 한국지능시스템학회 2020년 춘계학술대회 발표
 </details>
+
 
 <details>
 <summary>한국인 감정인식 경진대회</summary>
-  
+
+- 짧은 영화 영상을 보고 Arousal, Valence, Stress 예측
+  - pretrained VGG, Multi-branch layer
 - 2020년 10월 ~ 2020년 12월
-- [전남대학교 인공지능융합연구소 <제2회 한국인 감정인식 경진대회> 은상 수상](https://www.kaggle.com/c/2020kerc/overview)
-- 김유정, 윤용선
-- VGG
+- with [김유정](https://github.com/Yyyyyjkim)
+- [전남대학교 인공지능융합연구소 <제2회 한국인 감정인식 경진대회> 은상](https://www.kaggle.com/c/2020kerc/overview)
 </details>
 
 
