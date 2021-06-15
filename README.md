@@ -88,14 +88,15 @@
 ### Skills
 | Skill | Score | Description |
 | :---: | :---: | :---: |
-| Python | 중 | 거의 모든 프로젝트에서 사용 |
-| Tensorflow/Keras | 중 | 너무 복잡하지 않은 논문 구현 가능 |
-| Pytorch | 하 | 작성된 코드를 읽고 이해할 수 있음 |
-| SQL | 하 | 개인 프로젝트에서 사용 경험 |
-| MongoDB | 하 | 개인 프로젝트에서 사용 경험 |
-| AWS / GCP | 하 | 개인 프로젝트에서 사용 경험 |
-| Linux | 하 | 개인 프로젝트에서 사용 경험 |
-| HTML/CSS/JS | 하 | 개인 프로젝트에서 사용 경험 |
-| Flask | 하 | 개인 프로젝트에서 사용 경험 |
+| Python | 중 | 주사용 언어 |
+| Tensorflow/Keras | 중 | 논문 구현 |
+| Pytorch | 중 | 논문 구현 |
+| Flask | 중 | API 서버, 간단한 웹 개발 가능 |
+| Docker | 중 | Custom Image 개발 가능 |
+| SQL | 하 | 개인 프로젝트에 경험 |
+| MongoDB | 하 | 개인 프로젝트 경험 |
+| AWS / GCP | 하 | 개인 프로젝트 경험 |
+| Linux | 하 | 개인 프로젝트 경험 |
+| HTML/CSS/JS | 하 | 간단한 웹 개발 가능 |
 
 *상: 전문가 수준 / 중: 업무 활용 가능 수준 / 하: 개인 프로젝트 수준*
